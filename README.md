@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajitsingh
-• Currently working as Team Lead/Department Head in Studio Brahma Private Limited - Noida,
-with overall 16+ years of experience across different business domains in IT Industry
+- 
+• Overall 16+ years of experience across different business domains in IT Industry
 
 • Worked previously as Software Engineer in Mutants Technologies Private Ltd - Delhi, as Web
 developer & creating/managing the enterprise applications.
