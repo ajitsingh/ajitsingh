@@ -2,9 +2,6 @@
 
 • Overall 16+ years of experience across different business domains in IT Industry
 
-• Worked previously as Software Engineer in Mutants Technologies Private Ltd - Delhi, as Web
-developer & creating/managing the enterprise applications.
-
 • Have developed & maintained corporate/company websites, products, applications & mobile
 apps for various reputed clients.
 
@@ -21,7 +18,6 @@ projects.
 relationship management abilities.
 
 • Experience in Mobile App development for Android & iOS platforms.
-
 
 
 <!---
