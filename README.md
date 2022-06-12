@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajitsingh
-- 
+
 • Overall 16+ years of experience across different business domains in IT Industry
 
 • Worked previously as Software Engineer in Mutants Technologies Private Ltd - Delhi, as Web
