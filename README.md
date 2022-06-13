@@ -67,6 +67,10 @@ const ajit-kumar-singh = {
 };
 
 
+@if($includeAddress)
+address: please refer my CV.
+@endif
+
 
 <!---
 ajitsingh/ajitsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
