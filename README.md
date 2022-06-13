@@ -68,7 +68,9 @@ const ajit-kumar-singh = {
 
 
 @if($includeAddress)
+
 address: please refer my CV.
+
 @endif
 
 
